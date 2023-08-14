@@ -1,0 +1,13 @@
+# open a file with r, r+, w, w+
+#r---> oprn the file for readig , file must be exist
+#r+ ----> open the file for reading and writting, file must be exist
+#w ---> open the file for writting ,creates the file if does not exist
+#w+ ----> open the file for reading and writting , create the file if does not exist.
+#a(append) ---->prn the file for readig , file must be exist
+#a+(append) ---> open the file for reading and writting , create the file if does not exist.
+
+#file handleing step
+#1 file handle performs operation of reading and writting
+#2 provide contents to fie handle for reading and writing
+#3 close the file after read/write
+

@@ -1,0 +1,7 @@
+subham 1 socd 2nd
+milan 2 mcam 2nd
+sagar 3 socd 2nd
+vivek 4 socd 2nd
+ujal 5 mcam 2nd
+suvendu 6 mcam 2nd
+kartik 7 socd 2nd
